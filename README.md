@@ -36,7 +36,7 @@ Ensure you have the following installed:
 
 ---
 
-## ⚙️ **Setup**
+## ⚙️ **How to Run**
 
 Clone the repository and install dependencies:
 
